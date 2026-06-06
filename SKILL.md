@@ -1,3 +1,8 @@
+---
+name: 教训skill
+description: Silas犯过的错误和教训，自动提醒不要再犯
+---
+
 # 📝 教训 Skill
 
 ## 使用场景
