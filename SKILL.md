@@ -1,5 +1,5 @@
 ---
-name: 教训skill
+name: lesson-learned
 description: Silas犯过的错误和教训，自动提醒不要再犯
 ---
 
